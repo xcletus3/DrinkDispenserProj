@@ -1,0 +1,10 @@
+D:\GIT\C#\DrinkDispenserProj\DrinkDispenserProj\bin\Debug\DrinkDispenserProj.exe.config
+D:\GIT\C#\DrinkDispenserProj\DrinkDispenserProj\bin\Debug\DrinkDispenserProj.exe
+D:\GIT\C#\DrinkDispenserProj\DrinkDispenserProj\bin\Debug\DrinkDispenserProj.pdb
+D:\GIT\C#\DrinkDispenserProj\DrinkDispenserProj\obj\Debug\DrinkDispenserProj.csproj.AssemblyReference.cache
+D:\GIT\C#\DrinkDispenserProj\DrinkDispenserProj\obj\Debug\DrinkDispenserProj.Form1.resources
+D:\GIT\C#\DrinkDispenserProj\DrinkDispenserProj\obj\Debug\DrinkDispenserProj.Properties.Resources.resources
+D:\GIT\C#\DrinkDispenserProj\DrinkDispenserProj\obj\Debug\DrinkDispenserProj.csproj.GenerateResource.cache
+D:\GIT\C#\DrinkDispenserProj\DrinkDispenserProj\obj\Debug\DrinkDispenserProj.csproj.CoreCompileInputs.cache
+D:\GIT\C#\DrinkDispenserProj\DrinkDispenserProj\obj\Debug\DrinkDispenserProj.exe
+D:\GIT\C#\DrinkDispenserProj\DrinkDispenserProj\obj\Debug\DrinkDispenserProj.pdb
